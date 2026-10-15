@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Сделать ДЗ по React",
+      "description": "Хуки и формы",
+      "status": false,
+      "priority": "high"
+    },
+    {
+      "title": "№3 Погулять с друзьями",
+      "description": "Выйти и погулять",
+      "priority": "Middle",
+      "status": false,
+      "id": "a9fevVe98lg"
+    },
+    {
+      "title": "№3 ",
+      "description": "вмтэфв",
+      "priority": "Normal",
+      "status": false,
+      "id": "TcxeIX49kWs"
+    },
+    {
+      "title": "№4 Что то делать",
+      "description": "Что то делать",
+      "priority": "Middle",
+      "status": false,
+      "id": "8glMkhe3g1s"
+    },
+    {
+      "title": "мфэзта",
+      "description": "мфэзта",
+      "priority": "High",
+      "status": false,
+      "id": "ALTAfUYmewY"
+    },
+    {
+      "title": "мфэзта",
+      "description": "мфэзта",
+      "priority": "Normal",
+      "status": false,
+      "id": "_8xpgFGfIus"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
